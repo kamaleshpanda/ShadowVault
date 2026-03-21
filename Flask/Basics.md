@@ -52,4 +52,4 @@ users = {
 if username in users and users[username] == password:  
 return render_template('home.html', name=username)
 ```
-[[Rules|see the HTML and flask rules]]
+[[Rules#Rule 1|see the HTML and flask rules]]
