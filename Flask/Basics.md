@@ -53,3 +53,13 @@ if username in users and users[username] == password:
 return render_template('home.html', name=username)
 ```
 [[Rules#Rule 1|see the HTML and flask rules]]
+
+-----------------------
+## Jinja 2
+- Jinja2 is used inside HTML to **add logic + dynamic data** (it allows HTML to use python data with variables, conditions and loops)
+- It connects **Flask (Python)** with **HTML**
+
+Means:
+- Python sends data → HTML displays it using Jinja2
+
+e.g - Like if a school has hundred students so we cannot make hundred HTML page
