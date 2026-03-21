@@ -62,4 +62,5 @@ return render_template('home.html', name=username)
 Means:
 - Python sends data → HTML displays it using Jinja2
 
-e.g - Like if a school has hundred students so we cannot make hundred HTML page
+e.g. - Like if a school has 100 students so we cannot make 100 HTML page so therefore we will make one HTML page and from flask we will use a loop so that it will show their in that HTML page.
+
