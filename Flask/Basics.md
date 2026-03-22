@@ -67,4 +67,36 @@ e.g. - Like if a school has 100 students so we cannot make 100 HTML page so ther
 ## ==Template Inheritance== :- 
 - It allows you to create a **base template (layout)**
 - Other pages **reuse it instead of rewriting HTML again**
+- There is **1 Parent Page (Base Template)**
+- There are **multiple Child Pages**
+### Parent Page (`base.html`)
+  Contains:
+ - Header
+ - Footer
+ - Common layout
+
+Example:
+
+```html
+{% block content %}{% endblock %}
+```
+- This is a **placeholder** where child content will come
+
+#### Child Pages
+
+ Examples:
+- `home.html`
+- `result.html`
+- `login.html`
+
+They use:
+```html
+{% extends 'base.html' %}
+```
+-And fill content:
+```html
+{% block content %}  
+   <!-- page-specific content -->  
+{% endblock %}
+```
 
