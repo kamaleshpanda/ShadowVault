@@ -64,3 +64,7 @@ Means:
 
 e.g. - Like if a school has 100 students so we cannot make 100 HTML page so therefore we will make one HTML page and from flask we will use a loop so that it will show their in that HTML page.
 
+## ==Template Inheritance== :- 
+- It allows you to create a **base template (layout)**
+- Other pages **reuse it instead of rewriting HTML again**
+
