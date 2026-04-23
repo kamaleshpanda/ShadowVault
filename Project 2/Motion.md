@@ -113,5 +113,3 @@ while True:
     detect gesture
     press key
 ```
-
-ok
