@@ -148,7 +148,7 @@ Goal:
 ```sql
 SELECT *
 FROM Employee
-WHERE jobCode <> 'INT'
+WHERE jobCode <> 'INT' -- jobcode is not equal to interns
   AND salary <= 30000;
 ```
 
