@@ -291,6 +291,10 @@ WHERE name NOT LIKE 'A%'
 - Use `_` → for fixed-length patterns  
 - Use regex (advanced cases) instead of complex wildcards  
 
+### References
+- https://www.w3schools.com/sql/default.asp
+- https://www.sqltutorial.org/sql-cheat-sheet/
+
 ---
 ## Tags
 #SQL #DataAnalytics #QueryWriting #Database #Learning
