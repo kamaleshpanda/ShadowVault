@@ -49,7 +49,6 @@ Think: _“Structure + calculations”_
 - Originally part of Excel for visualization
 - In modern Power BI, this is replaced by:  
     **Report View / Visualizations pane**
-
 Think: _“Old name for visuals”_
 
 ---
@@ -81,5 +80,3 @@ Think: _“Old name for visuals”_
 | **PowerBI Desktop** | **Power BI Service** |
 | ------------------- | -------------------- |
 | Create reports      | Publish reports      |
-
-
