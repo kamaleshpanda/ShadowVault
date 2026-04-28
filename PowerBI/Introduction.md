@@ -1,4 +1,5 @@
 **Power BI** is a **business intelligence (BI) and data visualization tool** developed by Microsoft. It helps you **analyze data, create interactive dashboards, and generate reports** from different data sources.
+- Ranked as the leader in Gartner's Magic Quadrant
 ### In simple terms:
 Power BI turns **raw data → meaningful insights → visual reports**
 ### Key features
@@ -77,8 +78,8 @@ Think: _“Old name for visuals”_
 **KPI (Key Performance Indicator)** is a **measurable value** that shows how effectively a person, team, or company is achieving a specific goal.
 ==KPI = metric used to track performance==
 
-| **PowerBI Desktop | **Power BI Service |
-| ----------------- | ------------------ |
-| Create reports    | Publish reports    |
+| **PowerBI Desktop** | **Power BI Service** |
+| ------------------- | -------------------- |
+| Create reports      | Publish reports      |
 
 
