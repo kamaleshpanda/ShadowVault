@@ -80,3 +80,26 @@ Think: _“Old name for visuals”_
 | **PowerBI Desktop** | **Power BI Service** |
 | ------------------- | -------------------- |
 | Create reports      | Publish reports      |
+## Power BI Steps (Start → End)
+1. **Data Import**
+    - Load data from Excel / SQL / APIs into Power BI Desktop
+2. **Power Query (Transform Data)**
+    - Open Power Query Editor
+    - Clean data (remove nulls, change types, filter, merge)
+3. **Data Modeling (Model View)**
+    - Create relationships between tables
+    - Build schema (star/snowflake)
+4. **DAX Calculations**
+    - Create measures & calculated columns
+    - Example: Total Sales, Profit %
+5. **Visualizations (Report View)**
+    - Create charts, tables, dashboards
+    - Add KPIs, slicers, filters
+6. **Dashboard Design (Optional but important)**
+    - Make it clean, interactive, user-friendly
+7. **Publish**
+    - Upload to Power BI Service
+8. **Share & Refresh**
+    - Share with team
+    - Schedule data refresh
+
