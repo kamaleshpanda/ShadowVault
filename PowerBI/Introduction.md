@@ -105,3 +105,17 @@ Think: _“Old name for visuals”_
 
 
 > Linkage in PowerBI is called Relationships
+####  Example:
+If you have:
+- `Sales` table → has `CustomerID`
+- `Customers` table → has `CustomerID`
+You create a **relationship** between these two using `CustomerID`.
+### Why relationships matter:
+- They allow **data from multiple tables to work together**
+- Enable **correct filtering and aggregation**
+- Support **DAX calculations**
+- #### Types of relationships:
+- *One-to-Many (most common)*
+- *Many-to-One*
+- *Many-to-Many*
+- *One-to-One*
