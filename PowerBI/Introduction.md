@@ -124,3 +124,5 @@ You create a **relationship** between these two using `CustomerID`.
 ==For Total product count use -> Count==
 ##### Use of Slicer:-
 - *To get view of that chunk of data rather than the complete data*
+##### Use of TRIM :-
+- *To remove extra spaces* 
