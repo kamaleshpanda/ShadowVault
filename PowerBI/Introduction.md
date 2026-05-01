@@ -119,3 +119,8 @@ You create a **relationship** between these two using `CustomerID`.
 - *Many-to-One*
 - *Many-to-Many*
 - *One-to-One*
+
+==For Unique product count use -> Count(Distinct)==
+==For Total product count use -> Count==
+##### Use of Slicer:-
+- *To get view of that chunk of data rather than the complete data*
