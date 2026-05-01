@@ -103,3 +103,5 @@ Think: _“Old name for visuals”_
     - Share with team
     - Schedule data refresh
 
+
+> Linkage in PowerBI is called Relationships
