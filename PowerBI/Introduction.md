@@ -119,10 +119,23 @@ You create a **relationship** between these two using `CustomerID`.
 - *Many-to-One*
 - *Many-to-Many*
 - *One-to-One*
-
+#imp
 ==For Unique product count use -> Count(Distinct)==
 ==For Total product count use -> Count==
 ##### Use of Slicer:-
 - *To get view of that chunk of data rather than the complete data*
 ##### Use of TRIM :-
 - *To remove extra spaces* 
+
+## Chart Types
+- **Bar Chart** – Compares values across categories using horizontal bars.
+- **Line Chart** – Shows trends or changes over time.
+- **Card** – Displays a single key metric or value.
+- **Pie Chart** – Represents parts of a whole as proportional slices.
+- **Map** – Visualizes data based on geographic locations.
+- **Slicer** – Acts as an interactive filter to refine data in visuals.
+- **Tree Map** – Displays hierarchical data using nested rectangles.
+- **Funnel Chart** – Shows stages in a process and drop-offs between them.
+- **KPI Visual** – Indicates performance compared to a target or goal.
+- **Matrix** – Displays data in a pivot-style format with rows and columns.
+- **Ribbon Chart** – Shows ranking changes of categories over time.
