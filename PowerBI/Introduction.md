@@ -132,7 +132,7 @@ You create a **relationship** between these two using `CustomerID`.
 	- X-Axis --> Discrete variables
 	- Y-Axis --> Continuos Variables
 - **Line Chart** – Shows trends or changes over time.
-- **Card** – Displays a single key metric or value.
+- **Card** – Displays a single key metric or value. ( better keep on top )
 - **Pie Chart** – Represents parts of a whole as proportional slices.
 - **Map** – Visualizes data based on geographic locations.
 - **Slicer** – Acts as an interactive filter to refine data in visuals.
