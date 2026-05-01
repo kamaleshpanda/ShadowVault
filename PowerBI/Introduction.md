@@ -129,6 +129,8 @@ You create a **relationship** between these two using `CustomerID`.
 
 ## Chart Types
 - **Bar Chart** – Compares values across categories using horizontal bars.
+	- X-Axis --> Discrete variables
+	- Y-Axis --> Continuos Variables
 - **Line Chart** – Shows trends or changes over time.
 - **Card** – Displays a single key metric or value.
 - **Pie Chart** – Represents parts of a whole as proportional slices.
@@ -139,3 +141,4 @@ You create a **relationship** between these two using `CustomerID`.
 - **KPI Visual** – Indicates performance compared to a target or goal.
 - **Matrix** – Displays data in a pivot-style format with rows and columns.
 - **Ribbon Chart** – Shows ranking changes of categories over time.
+ 
