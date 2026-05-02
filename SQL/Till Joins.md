@@ -254,11 +254,11 @@ Before JOIN, you must know:
 
 ---
 
-# 🧪 PRACTICE QUESTIONS
+#  PRACTICE QUESTIONS
 
 ## Easy
 
-1. Show all students
+1. Show all studentsn
 2. Show names and marks
 3. Students with marks > 80
 4. Students with age < 20
