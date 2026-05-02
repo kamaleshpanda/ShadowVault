@@ -1,4 +1,4 @@
-# 📊 SQL Complete Notes (Beginner → Pre-JOIN)
+# SQL Complete Notes (Beginner → Pre-JOIN)
 
 ---
 
