@@ -2,7 +2,7 @@
 
 - SQL is **not case-sensitive** → you can write in lowercase  
 - But best practice:
-  - Use **UPPERCASE** for keywords (`SELECT`, `FROM`, `WHERE`)
+  - Use **UPPERCASE** for keywords. (`SELECT`, `FROM`, `WHERE`)
   - Use **indentation** for readability  
 
 ```sql
