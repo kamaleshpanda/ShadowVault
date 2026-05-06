@@ -263,7 +263,8 @@ Works like:
 Example:
 
 ```
-CREATE INDEX idx_nameON employees(name);
+CREATE INDEX idx_name
+ON employees(name);
 ```
 
 ---
@@ -305,7 +306,10 @@ PRIMARY KEY(student_id, course_id)
 For query:
 
 ```
-SELECT nameFROM employeesWHERE salary > 50000ORDER BY salary;
+SELECT name
+FROM employees
+WHERE salary > 50000
+ORDER BY salary;
 ```
 
 Execution order:
