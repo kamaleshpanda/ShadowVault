@@ -77,4 +77,7 @@
 
 ---
 
-==select salary from employees order by salary desc limit 1 offset (n-1) ; do late==
+==select salary 
+from employees 
+order by salary desc 
+limit 1 offset (n-1) ; do late==
