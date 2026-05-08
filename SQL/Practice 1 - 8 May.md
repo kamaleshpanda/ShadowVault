@@ -658,5 +658,5 @@ Find users created in year 2025.
 ```sql
 SELECT *
 FROM users
-WHERE YEAR(created_at) = 2025; sss
+WHERE YEAR(created_at) = 2025
 ```
