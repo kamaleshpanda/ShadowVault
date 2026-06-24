@@ -15,8 +15,6 @@ ShadowVault is my curated knowledge repository built in Obsidian and synced with
 | **/SQL**                   | Database design, relational modeling, query optimization, joins, indexing, and advanced SQL concepts.                                        |
 | **/PowerBI**               | Business intelligence, dashboard development, data visualization, and analytics workflows.                                                   |
 | **/Projects**              | Deep learning, computer vision, sensor fusion, image reconstruction, attention mechanisms, research prototypes, and full-stack applications. |
-| **/Interview Preparation** | Technical interview notes, DSA patterns, system design concepts, behavioral preparation, and problem-solving frameworks.                     |
-| **/Apti**                  | Quantitative aptitude, logical reasoning, verbal ability, and placement preparation resources.                                               |
 
 ---
 
@@ -85,8 +83,7 @@ ShadowVault is designed around the concept of a **connected knowledge system**, 
 * Data Science & Analytics
 * Machine Learning & Deep Learning
 * Computer Vision Research
-* Technical Interview Preparation
-* Quantitative Aptitude & Placement Readiness
+* Other Useful Notes
 
 ---
 
